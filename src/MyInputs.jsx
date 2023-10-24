@@ -7,6 +7,7 @@ export function MyInputs(props) {
 <div>
          <input placeholder='add name' />
          <input placeholder='add age' />
+         <input placeholder='add city' />
 </div>
  );
 }
