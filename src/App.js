@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import { MyInputs } from './MyInputs';
 import { MyParags } from './MyParags';
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <MyInputs/>
       <MyParags/>
     </div>
   );
